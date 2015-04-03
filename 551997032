@@ -1,0 +1,13 @@
+Tree
+CP2402 > 2.250
+|   CT32051 > 2.250
+|   |   CP3706 > 3.250: Good {Bad=0, Good=4}
+|   |   CP3706 ≤ 3.250: Bad {Bad=7, Good=1}
+|   CT32051 ≤ 2.250: Good {Bad=0, Good=5}
+CP2402 ≤ 2.250
+|   CT2403 > 2.750
+|   |   CT1202 > 1.500: Bad {Bad=2, Good=1}
+|   |   CT1202 ≤ 1.500: Good {Bad=0, Good=3}
+|   CT2403 ≤ 2.750
+|   |   CP2401 > 3.750: Good {Bad=0, Good=2}
+|   |   CP2401 ≤ 3.750: Bad {Bad=86, Good=6}
